@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "futureinfra",
+  "owner": {
+    "name": "FutureInfra",
+    "email": "support@futureinfra.ai",
+    "url": "https://futureinfra.ai"
+  },
+  "metadata": {
+    "description": "FutureInfra plugins for Claude Code — deploy to a Korean cloud with one sentence."
+  },
+  "plugins": [
+    {
+      "name": "futureinfra",
+      "source": "./plugins/futureinfra",
+      "description": "Deploy apps, create servers, manage domains and call 300+ AI models on FutureInfra — MCP connection plus a \"deploy this\" skill.",
+      "version": "1.0.0",
+      "category": "deployment",
+      "homepage": "https://futureinfra.ai/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "futureinfra",
+  "version": "1.0.0",
+  "description": "Deploy apps, create servers, manage domains and call 300+ AI models on FutureInfra (Korean cloud) — one MCP connection plus a \"deploy this\" skill.",
+  "author": {
+    "name": "FutureInfra",
+    "email": "support@futureinfra.ai",
+    "url": "https://futureinfra.ai"
+  },
+  "homepage": "https://futureinfra.ai/",
+  "repository": "https://github.com/uxidevlab/futureinfra-claude-plugin",
+  "license": "MIT",
+  "keywords": ["deploy", "hosting", "cloud", "mcp", "korea", "docker", "server", "domain", "llm"]
+}
